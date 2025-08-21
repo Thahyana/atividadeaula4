@@ -1,0 +1,55 @@
+body{
+    background-color: yellow;
+}
+
+#menutp{
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+    background-color: black;
+    height: 30px;
+    font-size: 20px;
+    font-family: Arial;
+    color: aliceblue;
+    padding: 0;
+    cursor: pointer;
+}
+
+h1{
+    display: inline-block;
+    background-color: yellow;
+    color: black;
+    height: 60px;
+    font-size: 50px;
+    font-family: cursive;
+}
+
+.img1{
+    height: 60px;
+}
+
+.imgs{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.mrc{
+    height: 200px;
+}
+
+.btn{
+    height: 30px;
+    cursor: pointer;
+    background-color: black;
+    border-color: black;
+    color: aliceblue;
+}
+
+.ctt{
+    color: inher
+    
+}
+
+link{
+    color: inherit;
+}
