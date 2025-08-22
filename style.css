@@ -2,6 +2,12 @@ body{
     background-color: yellow;
 }
 
+a {
+    font-family: inherit;
+    color: inherit;
+    text-decoration: none;
+}
+
 #menutp{
     display: flex;
     justify-content: space-around;
