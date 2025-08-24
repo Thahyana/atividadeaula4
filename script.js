@@ -1,3 +1,3 @@
 function goToContact() {
-    window.location.href = 'https://thahyana.github.io/contatvaula4/';
+    window.location.href = 'https://thahyana.github.io/fale-conosco/';
 }
