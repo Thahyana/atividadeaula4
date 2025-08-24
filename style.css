@@ -5,6 +5,7 @@ body {
 #menutp {
     display: flex;
     justify-content: space-around;
+    align-items: flex-start;
     list-style-type: none;
     background-color: black;
     height: 30px;
