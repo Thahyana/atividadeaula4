@@ -46,6 +46,15 @@ h1 {
     color: aliceblue;
 }
 
-#contact-btn {
-    text-decoration: none;
+.contact-btn {
+    background-color: black;
+    border-color: transparent;
+    height: 30px;
+    font-size: 20px;
+    font-family: Arial;
+    color: aliceblue;
+    padding: 0;
+    cursor: pointer;
+    outline: none;
+    text-decoration: inherit;
 }
